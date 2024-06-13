@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+h3 {
+  padding: 10px 10px;
+}
+
+.some {
+  padding: 10px 10px;
+}
+
+.btn {
+  border: none;
+  text-decoration: none;
+  color: white;
+  background-color: teal;
+  margin: 10px;
+  padding: 10px 55px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.btn:hover {
+  box-shadow: 0 0 5px black;
+}
+
+h3 {
+  padding: 10px 10px;
+}
+
+.some {
+  padding: 10px 10px;
+}
+
+.btn1 {
+  border: 1px solid teal;
+  text-decoration: none;
+  color: teal;
+  background-color: white;
+  margin: 10px;
+  padding: 10px 55px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.btn1:hover {
+  box-shadow: 0 0 5px black;
+}
+
+.bs-btn {
+  border: 1px solid teal;
+  color: white;
+  margin: 10px;
+  padding: 10px 55px;
+  cursor: pointer;
+  border-radius: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.primary {
+  background-color: blue;
+}
+.secondary {
+  background-color: darkslategray;
+}
+.success {
+  background-color: forestgreen;
+}
+.warning {
+  background-color: orangered;
+}
+.danger {
+  background-color: darkred;
+}
+
+.bs-btn:hover {
+  box-shadow: 0 0 5px black;
+}
+
+.bs-btns {
+  border: 1px solid teal;
+  color: teal;
+  background-color: white;
+  margin: 10px;
+  padding: 10px 55px;
+  cursor: pointer;
+  border-radius: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.primarys {
+  color: blue;
+  border-color: blue;
+}
+.secondarys {
+  color: darkslategray;
+  border-color: darkslategray;
+}
+.successs {
+  color: forestgreen;
+  border-color: forestgreen;
+}
+.warnings {
+  color: orangered;
+  border-color: orangered;
+}
+.dangers {
+  color: darkred;
+  border-color: darkred;
+}
+
+.bs-btns:hover {
+  box-shadow: 0 0 5px black;
+}
+
+.primarys:hover {
+  background-color: blue;
+  color: white;
+}
+.secondarys:hover {
+  background-color: darkslategray;
+  color: white;
+}
+.successs:hover {
+  background-color: forestgreen;
+  color: white;
+}
+.warnings:hover {
+  background-color: orangered;
+  color: white;
+}
+.dangers:hover {
+  background-color: darkred;
+  color: white;
+}
